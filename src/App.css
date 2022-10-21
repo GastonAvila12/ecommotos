@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Electrolize", sans-serif;
+    }
+
+    .wrapper {
+    background-image: url(./img/fondo.jpg);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: grey;
+    height: auto;
+    max-height: auto;
+    }

@@ -3,7 +3,7 @@
 
 Instalación 🔧 
 
-1º Puedes ingresar desde mi *[repositorio](https://github.com/leanbenac/ReactProyect)*, descargar el zip y descomprimirlo en tu desktop.
+1º Puedes ingresar desde mi *[repositorio](https://github.com/gastonavila12/ecommotos)*, descargar el zip y descomprimirlo en tu desktop.
 
 2º Una vez hecho este paso, debes abrir tu editor de texto Visual Code o Sublime, abrir el proyecto y en la terminal poner el comando ```npm install``` para instalar las dependencias utilizadas en el proyecto.
 

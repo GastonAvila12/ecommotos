@@ -1,16 +1,5 @@
 #  🏍️ 💨 Reznik    
-## Motorcycle Ecommerce   
 
-Este proyecto lo hice para alcanzar los objetivos del curso de React js realizado en Coder House.
-Mi pasion por las motos me inspiro a crear un ecommerce de motocicletas de estilo Naked y Sport de alta gama.
-
-------
-**Comenzamos** 🚀 
-
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
-
-
-Ingresa a [ deployment ](https://reznikecommmerce.netlify.app) para desplegar el proyecto.
 
 Instalación 🔧 
 
@@ -35,16 +24,5 @@ Instalación 🔧
 
 
 
-## Gracias por llegar al Final 🎁
-
-* Disfrute el camino para aprender React, pero es solo en comienzo.📢
-* Gracias a todos los que compartieron sus conocimientos conmigo.
-* Siempre guardare tiempo para compartir momentos con amigos. 
-
-
-
---- 
-
-Realizado por [Leandro Benac](https://github.com/leanbenac).
 
 
